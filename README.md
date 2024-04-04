@@ -24,8 +24,11 @@
 -POSSIBLE WEATHER: Rainy, Foggy, Stormy, Flooded
 
 ## Screenshot
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Maritopia/main/screenshot/1.png)
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Maritopia/main/screenshot/2.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Maritopia/main/screenshot/3.png)
+
+#
+> Added LevelTag for compatibility with the Celestial Tint(sfDesat) mod
+> Since version 0.5.0, the moon has undergone a redesign
 
 #
 > LethalLevelLoader (0.3.0 and higher)
@@ -33,7 +36,10 @@
 
 #
 Special thanks
-Thank you to DarkiNet for the icon for the mod.
+
+- Special thanks to **DarkiNet** for the icon for the mod                                                                                                                                                                  
+- Special thanks to **SourceShard** for testing the map and bug hunting
+- Special thanks to **lPsychoJokerl** for testing the map
 
 #
 My discord - tolian
