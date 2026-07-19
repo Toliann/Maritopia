@@ -1,6 +1,6 @@
 # Tolian Moons (LLL)
 
-1 new game moon
+1 New In-Game Moon
 
 #
 ## New Moon: Maritopia
@@ -24,11 +24,14 @@
 -POSSIBLE WEATHER: Rainy, Foggy, Stormy, Flooded
 
 ## Screenshot
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Maritopia/main/screenshot/3.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Maritopia/refs/heads/main/screenshot/4.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Maritopia/refs/heads/main/screenshot/5.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Maritopia/refs/heads/main/screenshot/6.png)
 
 #
 > Added LevelTag for compatibility with the Celestial Tint(sfDesat) mod
-> Since version 0.5.0, the moon has undergone a redesign
+> Since version 0.9.8, the moon has undergone a redesignV3
+> Since version 0.5.0, the moon has undergone a redesignV2
 
 #
 > LethalLevelLoader (0.3.0 and higher)
@@ -40,6 +43,8 @@ Special thanks
 - Special thanks to **DarkiNet** for the icon for the mod                                                                                                                                                                  
 - Special thanks to **SourceShard** for testing the map and bug hunting
 - Special thanks to **lPsychoJokerl** for testing the map
+- Special thanks to **explodingturtles456** for testing the map
 
 #
 My discord - tolian
+- My discord server - [Tolian Serv](https://discord.gg/ybjPfxCKZX)
